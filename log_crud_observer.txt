@@ -1,0 +1,1 @@
+2022-04-20 20:29 -- ('66666666', 'manuel', 'manuel', 'manuel', '1166666666', 'manuel@manuel.com', 'manuel 6666', '06/06/1989', 'ALTA')
